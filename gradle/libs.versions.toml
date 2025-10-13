@@ -64,7 +64,7 @@ desugarJdkLibs = "2.1.5"
 asynclayoutinflater = "1.0.0"
 flexbox = "3.0.0"
 firebaseBom = "33.10.0"
-composeBom = "2025.02.00"
+composeBom = "2025.10.00"
 
 [libraries]
 # Android
